@@ -1,0 +1,13 @@
+把加了pda点位的customer.inf 丢到conf/文件夹
+用tools里的dbfplus改下conf/proc.dbf中的账套和端口号
+安装tools中的npp并用notepad++改下conf/setup.inf中的pattern 3，6，11，海信用fmt97，百富用fmt97
+repl_gep是扩库，无论是4位还是两位都可以重复执行，大约停机五分钟，资料特别多，服务器特别破，可能需要10分钟
+install_xpos是安装程序，最大支持99个工作站，自动生成启动脚本paytbld.s。并在rc.local gmsys crond 中添加脚本
+脚本会拷贝一个双字节％的taxtable.dbf 如果跟原来的不相同请还原并且把%替换％或者一开始就改xpos/data/taxtable.dbf
+
+chmod 755 *.s
+
+./repl_gep.s z01
+./repl_gep.s z02
+./install_xpos.s z01 会问数量
+./install_xpos.s z02 会问数量

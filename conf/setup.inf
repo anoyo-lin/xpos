@@ -1,0 +1,610 @@
+[pattern3]
+00000001=k01,98,1,28
+00000002=k02,98,1,28
+00000003=k03,98,1,28
+00000004=k04,98,1,28
+00000005=k05,98,1,28
+00000006=k06,98,1,28
+00000007=k07,98,1,28
+00000008=k08,98,1,28
+00000009=k09,98,1,28
+00000010=k10,98,1,28
+00000011=k11,98,1,28
+00000012=k12,98,1,28
+00000013=k13,98,1,28
+00000014=k14,98,1,28
+00000015=k15,98,1,28
+00000016=k16,98,1,28
+00000017=k17,98,1,28
+00000018=k18,98,1,28
+00000019=k19,98,1,28
+00000020=k20,98,1,28
+00000021=k21,98,1,28
+00000022=k22,98,1,28
+00000023=k23,98,1,28
+00000024=k24,98,1,28
+00000025=k25,98,1,28
+00000026=k26,98,1,28
+00000027=k27,98,1,28
+00000028=k28,98,1,28
+00000029=k29,98,1,28
+00000030=k30,98,1,28
+00000031=k31,98,1,28
+00000032=k32,98,1,28
+00000033=k33,98,1,28
+00000034=k34,98,1,28
+00000035=k35,98,1,28
+00000036=k36,98,1,28
+00000037=k37,98,1,28
+00000038=k38,98,1,28
+00000039=k39,98,1,28
+00000040=k40,98,1,28
+00000041=k41,98,1,28
+00000042=k42,98,1,28
+00000043=k43,98,1,28
+00000044=k44,98,1,28
+00000045=k45,98,1,28
+00000046=k46,98,1,28
+00000047=k47,98,1,28
+00000048=k48,98,1,28
+00000049=k49,98,1,28
+00000050=k50,98,1,28
+00000051=k51,98,1,28
+00000052=k52,98,1,28
+00000053=k53,98,1,28
+00000054=k54,98,1,28
+00000055=k55,98,1,28
+00000056=k56,98,1,28
+00000057=k57,98,1,28
+00000058=k58,98,1,28
+00000059=k59,98,1,28
+00000060=k60,98,1,28
+00000061=k61,98,1,28
+00000062=k62,98,1,28
+00000063=k63,98,1,28
+00000064=k64,98,1,28
+00000065=k65,98,1,28
+00000066=k66,98,1,28
+00000067=k67,98,1,28
+00000068=k68,98,1,28
+00000069=k69,98,1,28
+00000070=k70,98,1,28
+00000071=k71,98,1,28
+00000072=k72,98,1,28
+00000073=k73,98,1,28
+00000074=k74,98,1,28
+00000075=k75,98,1,28
+00000076=k76,98,1,28
+00000077=k77,98,1,28
+00000078=k78,98,1,28
+00000079=k79,98,1,28
+00000080=k80,98,1,28
+00000081=k81,98,1,28
+00000082=k82,98,1,28
+00000083=k83,98,1,28
+00000084=k84,98,1,28
+00000085=k85,98,1,28
+00000086=k86,98,1,28
+00000087=k87,98,1,28
+00000088=k88,98,1,28
+00000089=k89,98,1,28
+00000090=k90,98,1,28
+00000091=k91,98,1,28
+00000092=k92,98,1,28
+00000093=k93,98,1,28
+00000094=k94,98,1,28
+00000095=k95,98,1,28
+00000096=k96,98,1,28
+00000097=k97,98,1,28
+00000098=k98,98,1,28
+00000099=k99,98,1,28
+[pattern3]
+
+[pattern6]
+k01=0001,71,0000,0999,1,1,flag1,other_xpos,over1
+k02=0001,71,1000,1999,1,1,flag1,other_xpos,over1
+k03=0001,71,2000,2999,1,1,flag1,other_xpos,over1
+k04=0001,71,3000,3999,1,1,flag1,other_xpos,over1
+k05=0001,71,4000,4999,1,1,flag1,other_xpos,over1
+k06=0001,71,5000,5999,1,1,flag1,other_xpos,over1
+k07=0001,71,6000,6999,1,1,flag1,other_xpos,over1
+k08=0001,71,7000,7999,1,1,flag1,other_xpos,over1
+k09=0001,71,8000,8999,1,1,flag1,other_xpos,over1
+k10=0001,71,9000,9999,1,1,flag1,other_xpos,over1
+k11=0001,72,0000,0999,1,1,flag1,other_xpos,over1
+k12=0001,72,1000,1999,1,1,flag1,other_xpos,over1
+k13=0001,72,2000,2999,1,1,flag1,other_xpos,over1
+k14=0001,72,3000,3999,1,1,flag1,other_xpos,over1
+k15=0001,72,4000,4999,1,1,flag1,other_xpos,over1
+k16=0001,72,5000,5999,1,1,flag1,other_xpos,over1
+k17=0001,72,6000,6999,1,1,flag1,other_xpos,over1
+k18=0001,72,7000,7999,1,1,flag1,other_xpos,over1
+k19=0001,72,8000,8999,1,1,flag1,other_xpos,over1
+k20=0001,72,9000,9999,1,1,flag1,other_xpos,over1
+k21=0001,73,0000,0999,1,1,flag1,other_xpos,over1
+k22=0001,73,1000,1999,1,1,flag1,other_xpos,over1
+k23=0001,73,2000,2999,1,1,flag1,other_xpos,over1
+k24=0001,73,3000,3999,1,1,flag1,other_xpos,over1
+k25=0001,73,4000,4999,1,1,flag1,other_xpos,over1
+k26=0001,73,5000,5999,1,1,flag1,other_xpos,over1
+k27=0001,73,6000,6999,1,1,flag1,other_xpos,over1
+k28=0001,73,7000,7999,1,1,flag1,other_xpos,over1
+k29=0001,73,8000,8999,1,1,flag1,other_xpos,over1
+k30=0001,73,9000,9999,1,1,flag1,other_xpos,over1
+k31=0001,74,0000,0999,1,1,flag1,other_xpos,over1
+k32=0001,74,1000,1999,1,1,flag1,other_xpos,over1
+k33=0001,74,2000,2999,1,1,flag1,other_xpos,over1
+k34=0001,74,3000,3999,1,1,flag1,other_xpos,over1
+k35=0001,74,4000,4999,1,1,flag1,other_xpos,over1
+k36=0001,74,5000,5999,1,1,flag1,other_xpos,over1
+k37=0001,74,6000,6999,1,1,flag1,other_xpos,over1
+k38=0001,74,7000,7999,1,1,flag1,other_xpos,over1
+k39=0001,74,8000,8999,1,1,flag1,other_xpos,over1
+k40=0001,74,9000,9999,1,1,flag1,other_xpos,over1
+k41=0001,75,0000,0999,1,1,flag1,other_xpos,over1
+k42=0001,75,1000,1999,1,1,flag1,other_xpos,over1
+k43=0001,75,2000,2999,1,1,flag1,other_xpos,over1
+k44=0001,75,3000,3999,1,1,flag1,other_xpos,over1
+k45=0001,75,4000,4999,1,1,flag1,other_xpos,over1
+k46=0001,75,5000,5999,1,1,flag1,other_xpos,over1
+k47=0001,75,6000,6999,1,1,flag1,other_xpos,over1
+k48=0001,75,7000,7999,1,1,flag1,other_xpos,over1
+k49=0001,75,8000,8999,1,1,flag1,other_xpos,over1
+k50=0001,75,9000,9999,1,1,flag1,other_xpos,over1
+k51=0001,76,0000,0999,1,1,flag1,other_xpos,over1
+k52=0001,76,1000,1999,1,1,flag1,other_xpos,over1
+k53=0001,76,2000,2999,1,1,flag1,other_xpos,over1
+k54=0001,76,3000,3999,1,1,flag1,other_xpos,over1
+k55=0001,76,4000,4999,1,1,flag1,other_xpos,over1
+k56=0001,76,5000,5999,1,1,flag1,other_xpos,over1
+k57=0001,76,6000,6999,1,1,flag1,other_xpos,over1
+k58=0001,76,7000,7999,1,1,flag1,other_xpos,over1
+k59=0001,76,8000,8999,1,1,flag1,other_xpos,over1
+k60=0001,76,9000,9999,1,1,flag1,other_xpos,over1
+k61=0001,77,0000,0999,1,1,flag1,other_xpos,over1
+k62=0001,77,1000,1999,1,1,flag1,other_xpos,over1
+k63=0001,77,2000,2999,1,1,flag1,other_xpos,over1
+k64=0001,77,3000,3999,1,1,flag1,other_xpos,over1
+k65=0001,77,4000,4999,1,1,flag1,other_xpos,over1
+k66=0001,77,5000,5999,1,1,flag1,other_xpos,over1
+k67=0001,77,6000,6999,1,1,flag1,other_xpos,over1
+k68=0001,77,7000,7999,1,1,flag1,other_xpos,over1
+k69=0001,77,8000,8999,1,1,flag1,other_xpos,over1
+k70=0001,77,9000,9999,1,1,flag1,other_xpos,over1
+k71=0001,78,0000,0999,1,1,flag1,other_xpos,over1
+k72=0001,78,1000,1999,1,1,flag1,other_xpos,over1
+k73=0001,78,2000,2999,1,1,flag1,other_xpos,over1
+k74=0001,78,3000,3999,1,1,flag1,other_xpos,over1
+k75=0001,78,4000,4999,1,1,flag1,other_xpos,over1
+k76=0001,78,5000,5999,1,1,flag1,other_xpos,over1
+k77=0001,78,6000,6999,1,1,flag1,other_xpos,over1
+k78=0001,78,7000,7999,1,1,flag1,other_xpos,over1
+k79=0001,78,8000,8999,1,1,flag1,other_xpos,over1
+k80=0001,78,9000,9999,1,1,flag1,other_xpos,over1
+k81=0001,79,0000,0999,1,1,flag1,other_xpos,over1
+k82=0001,79,1000,1999,1,1,flag1,other_xpos,over1
+k83=0001,79,2000,2999,1,1,flag1,other_xpos,over1
+k84=0001,79,3000,3999,1,1,flag1,other_xpos,over1
+k85=0001,79,4000,4999,1,1,flag1,other_xpos,over1
+k86=0001,79,5000,5999,1,1,flag1,other_xpos,over1
+k87=0001,79,6000,6999,1,1,flag1,other_xpos,over1
+k88=0001,79,7000,7999,1,1,flag1,other_xpos,over1
+k89=0001,79,8000,8999,1,1,flag1,other_xpos,over1
+k90=0001,79,9000,9999,1,1,flag1,other_xpos,over1
+k91=0001,70,0000,0999,1,1,flag1,other_xpos,over1
+k92=0001,70,1000,1999,1,1,flag1,other_xpos,over1
+k93=0001,70,2000,2999,1,1,flag1,other_xpos,over1
+k94=0001,70,3000,3999,1,1,flag1,other_xpos,over1
+k95=0001,70,4000,4999,1,1,flag1,other_xpos,over1
+k96=0001,70,5000,5999,1,1,flag1,other_xpos,over1
+k97=0001,70,6000,6999,1,1,flag1,other_xpos,over1
+k98=0001,70,7000,7999,1,1,flag1,other_xpos,over1
+k99=0001,70,8000,8999,1,1,flag1,other_xpos,over1
+[pattern6]
+
+[pattern11]
+SHOP_ID0=100210000001551
+SHOP_ID1=100210000001551
+SHOP_ID2=100210000001551
+SHOP_ID3=100210000001551
+SHOP_ID4=100210000001551
+SHOP_ID5=100210000001551
+SHOP_ID6=100210000001551
+SHOP_ID7=100210000001551
+SHOP_ID8=100210000001551
+SHOP_ID9=100210000001551
+SHOP_ID10=100210000001551
+SHOP_ID11=100210000001551
+SHOP_ID12=100210000001551
+SHOP_ID13=100210000001551
+SHOP_ID14=100210000001551
+SHOP_ID15=100210000001551
+SHOP_ID16=100210000001551
+SHOP_ID17=100210000001551
+SHOP_ID18=100210000001551
+SHOP_ID19=100210000001551
+SHOP_ID20=100210000001551
+SHOP_ID21=100210000001551
+SHOP_ID22=100210000001551
+SHOP_ID23=100210000001551
+SHOP_ID24=100210000001551
+SHOP_ID25=100210000001551
+SHOP_ID26=100210000001551
+SHOP_ID27=100210000001551
+SHOP_ID28=100210000001551
+SHOP_ID29=100210000001551
+SHOP_ID30=100210000001551
+SHOP_ID31=100210000001551
+SHOP_ID32=100210000001551
+SHOP_ID33=100210000001551
+SHOP_ID34=100210000001551
+SHOP_ID35=100210000001551
+SHOP_ID36=100210000001551
+SHOP_ID37=100210000001551
+SHOP_ID38=100210000001551
+SHOP_ID39=100210000001551
+SHOP_ID40=100210000001551
+SHOP_ID41=100210000001551
+SHOP_ID42=100210000001551
+SHOP_ID43=100210000001551
+SHOP_ID44=100210000001551
+SHOP_ID45=100210000001551
+SHOP_ID46=100210000001551
+SHOP_ID47=100210000001551
+SHOP_ID48=100210000001551
+SHOP_ID49=100210000001551
+SHOP_ID50=100210000001551
+SHOP_ID51=100210000001551
+SHOP_ID52=100210000001551
+SHOP_ID53=100210000001551
+SHOP_ID54=100210000001551
+SHOP_ID55=100210000001551
+SHOP_ID56=100210000001551
+SHOP_ID57=100210000001551
+SHOP_ID58=100210000001551
+SHOP_ID59=100210000001551
+SHOP_ID60=100210000001551
+SHOP_ID61=100210000001551
+SHOP_ID62=100210000001551
+SHOP_ID63=100210000001551
+SHOP_ID64=100210000001551
+SHOP_ID65=100210000001551
+SHOP_ID66=100210000001551
+SHOP_ID67=100210000001551
+SHOP_ID68=100210000001551
+SHOP_ID69=100210000001551
+SHOP_ID70=100210000001551
+SHOP_ID71=100210000001551
+SHOP_ID72=100210000001551
+SHOP_ID73=100210000001551
+SHOP_ID74=100210000001551
+SHOP_ID75=100210000001551
+SHOP_ID76=100210000001551
+SHOP_ID77=100210000001551
+SHOP_ID78=100210000001551
+SHOP_ID79=100210000001551
+SHOP_ID80=100210000001551
+SHOP_ID81=100210000001551
+SHOP_ID82=100210000001551
+SHOP_ID83=100210000001551
+SHOP_ID84=100210000001551
+SHOP_ID85=100210000001551
+SHOP_ID86=100210000001551
+SHOP_ID87=100210000001551
+SHOP_ID88=100210000001551
+SHOP_ID89=100210000001551
+SHOP_ID90=100210000001551
+SHOP_ID91=100210000001551
+SHOP_ID92=100210000001551
+SHOP_ID93=100210000001551
+SHOP_ID94=100210000001551
+SHOP_ID95=100210000001551
+SHOP_ID96=100210000001551
+SHOP_ID97=100210000001551
+SHOP_ID98=100210000001551
+
+[pattern11]
+
+[pattern1]
+ckfmt_section_type=2
+support_lev2_payment=1
+support_lev2_discount=1
+support_multi_chkdisc=1
+support_10_othref=1
+void_code_for_void_payment=1
+#support_kill_station_by_unlock_table_option=1
+[pattern1]
+
+[pattern2]
+support_new_encryption_no_BCD_compression=1
+pgs_enc_key = AAAA1111BBBB2222CCCC3333DDDD4444
+pgs_default_payment_type=0099
+card_free_chk_disc_num=0099
+restrict_payment_on_central_coupon_sell_usage=0
+ret_error_msg_language_id = 3
+support_pay_method = 01,02,03,04,05,06
+needMemberCard=0
+needCouponCodeInPayment=0
+storeName=storeName
+get_member_from_member_dbf=1
+cash_default_paytype=0001
+coupon_default_paytype=0098
+pgs_default_card_payment_type=0016
+pgs_data_package_suffix=silverstonepay@table
+pda_log = /u/pgstmp/gmpgs.log
+packet_log = 1, /u/pgstmp/
+[pattern2]
+
+[pattern4]
+#####FOR HISENSE HI98
+fmt97:1=setup1,head7Q,cont7Q,end7Q,item7Q,modi1E,pay1E,prt_hist1E,mesg1E,idisc7Q,null,null,totsum1E
+fmt97:2=setup1,head7Q,cont7Q,end7Q,item7Q,modi1C,pay1C,prt_hist1C,mesg1C,idisc7Q,null,null,totsum1E
+fmt97:3=setup1,head7Q,cont7Q,end7Q,item7Q,modi1C,pay1C,prt_hist1C,mesg1C,idisc7Q,null,null,totsum1E
+#####FOR PAX S90
+fmt98:1=setup1,head7R,cont7R,end7R,item7R,modi1E,pay1E,prt_hist1E,mesg1E,null,null,null,totsum7R
+fmt98:2=setup1,head7R,cont7R,end7R,item7R,modi1C,pay1C,prt_hist1C,mesg1C,null,null,null,totsum7R
+fmt98:3=setup1,head7R,cont7R,end7R,item7R,modi1C,pay1C,prt_hist1C,mesg1C,null,null,null,totsum7R
+[pattern4]
+
+[pattern5]
+[head7R]
+;*C;(ck_ref ! ""/尊敬的$ck_ref$先生\女士:/)
+;*C;(TRAINING > "0"/   [ 系统训练模式 ]/)
+;*C;(ECR_MODE > "0"/   [ 单机操作模式 ]/)
+;*C;(PACK_FMT = "1"/   [ 外卖单据收据 ] /)
+;*C;(PICKUP_FMT = "1"/  [ 外卖取货收据 - $ck_recno,3.0L$ ] /)
+;*rC;(comname1 ! ""/$comname1,25C$/)
+;*rC;(comname2 ! ""/$comname2,25C$/)
+;*bC;(outdesc ! ""/$outdesc,25C$/)
+#;*rC;(comname1 ! ""/$comname1,33C$/)
+#;*rC;(comname2 ! ""/$comname2,33C$/)
+#(DETAIL > "0"/;*;/;*C;(outdesc ! ""/$outdesc,25C$/))
+;*;(DETAIL > "0"//;*bE;(addr2 ! ""/$addr2$/))
+;*;(DETAIL > "0"//;*E;(addr1 ! ""/$addr1$/))
+;*;(DETAIL > "0"//;*E;(tel ! ""/电话 Tel : $tel$/))
+#;*E;(fax ! ""/传真: $fax$/)
+;bE;----------------------------
+;*C;(DETAIL > "0"/       看台单  : $checkno$/)
+;*E;(DELIVERY > "0"/送货顾客: $deli_cust$/) 
+;*E;(DELIVERY > "0"/顾客电话: $deli_phone$/)
+;*;(DELIVERY > "0"/(deli_addr1 ! ""/;E;  $deli_addr1$/)/)
+;*;(DELIVERY > "0"/(deli_addr2 ! ""/;E;  $deli_addr2$/)/)
+;*;(DELIVERY > "0"/(deli_city ! ""/;E;  $deli_city$ $deli_state$/)/)
+;*;(DELIVERY > "0"/(deli_empno ! ""/;E;送货员工 : $deli_emp$ "("$deli_empno$")"/)/)
+;*C;(MGR_REPRT > "0"/**    经 理 重 印   **/) 
+;*E;(DAILY > "0"//     * 过 往 单 据 *)
+;*E;(DAILY > "0"//     "("$ckdate,8L,1,8$")")
+;C;     台号 TABLE: $table$
+;*;(tbl_desc2 ! ""/;rH;     $tbl_desc2,6,1,6$/)
+;bE;Date:$prtdate,8L,1,8$   Time:$time_in,5,1,5$
+;bE;Staff:$empname,8L$  Cover:$guest$
+;*;(DETAIL > "0"//;C;Print: $prtno,3.0L$Check#: $checkno$)
+#;*C;(ck_ref ! ""/Ref. No.:$ck_ref$/)
+#;*;(DETAIL > "0"/;C;(prtno > "1"/打印记录:/无打印记录)/)
+#;*;(DETAIL > "0"/(prtno > "1"/+F:print_history+/)/)
+#;*;(DETAIL > "0"/;E;/)
+;E;
+
+[cont7R]
+#+F:det_item+
++F:grp_item+
+;E;
++F:tot_sum+
+;*;(DETAIL > "0"//;*bE;(allitmtot > "0"/          Sub-Total $allitmtot+allitmdisc, 9.2$/))
+;*;(allitmdisc > "0"/;rE;$idiscdesc2,23R$ $-allitmdisc,9.2$/)
+;*;(disamt > "0"/;rE;$discdesc,23R$ $-disamt,9.2$/)
+#;*E;(tax1 > "0"/$tax_desc1,23R$ $tax1,9.2$/)
+#;*E;(tax2 > "0"/$tax_desc2,23R$ $tax1,9.2$/)
+#;*E;(tax3 > "0"/$tax_desc3,23R$ $tax1,9.2$/)
+#;*E;(alltax > "0"/               税项总和 $alltax,9.2$/)
+;*E;(tax1 > "0"/$tax_desc1,16R$    $tax1,9.2$/)
+;*E;(tax2 > "0"/$tax_desc2,16R$    $tax2,9.2$/)
+;*E;(tax3 > "0"/$tax_desc3,16R$    $tax3,9.2$/)
+;*E;(alltax > "0"/           税项总和 $alltax,9.2$/)
+;*;(DETAIL > "0"//;*bE;(serv1 > "0"/$serv_desc1,21R$ $serv1,7.2$/))
+;*;(serv2 > "0"/;bE;$serv_desc2,23R$ $serv2,9.2$/)
+#;*E;(allserv > "0"/             服务费总和 $allserv,9.2$/) 
+;*;(isround > "0"/;bE;               约数差额 $isround,9.2$/)
+#;*;(DETAIL > "0"//;E;                        ---------)
+;*;(DETAIL > "0"//;bC;$prttime,5,1,5$       总计RMB $net_tot,9.2$)
+;*;(DETAIL > "0"//;E;                    =========)
+#;*;(DETAIL > "0"//;C;       总计HKD $net_tot/1.04,9.2$
+#;*;(DETAIL > "0"//;E;                        =========)
+;*;(DETAIL > "0"//(show_fc > "0"/;C;$fc_desc,15R$ $net_to_fc,9.2$/))
+;*;(DETAIL > "0"/+F:message+/)
+#;*;(DETAIL > "0"/(is_paid > "0"/;E;/;C;      <尚未付款>)/)
+#;*;(DETAIL > "0"/(is_paid > "0"/;E;收银员 : $cashname$ "("$cashier$")"/)/)
+#;*;(DETAIL > "0"/(is_paid > "0"/;E;付款方法 数额     小账   总数 /)/)
+#;*;(DETAIL > "0"/(is_paid > "0"/-------- -------- ------ --------/)/)
+#;*;(DETAIL > "0"/(is_paid > "0"/+F:payment+/)/)
+#;*;(DETAIL > "0"/(is_paid > "0"/;E;** 总和  $amt_tot,9.2$ $tips_tot,7.2$ $all_pay,9.2$/)/)
+
+[end7R]
+#;E;
+;*E;(ck_ref1 ! ""/ ***$ck_ref1$***/)
+;*E;(cust_name ! ""/  Card#:  $cust_name$/)
+;*E;(member ! ""/会员: $member$/)
+;*E;(member ! ""/      $mem_name,25D$/)
+;*E;(member = "CL1234"/(is_paid > "0"/;E;付款方法 数额     小账   总数 /)/)
+;*E;(member = "CL1234"/(is_paid > "0"/-------- -------- ------ --------/)/)
+;*E;(member = "CL1234"/(is_paid > "0"/+F:payment+/)/)
+;*E;(member ! "CL1234"/(member ! ""/会员: $member$/)/)
+;*E;(member ! "CL1234"/(member ! ""/      $mem_name,25D$/)/)
+(DETAIL > "0" /;rE;****   THIS IS NOT A CHECK   ****/;*;)
+(DETAIL > "0" /;E;**** PLEASE DON'T PAY FOR IT ****/;*;)
+# (DETAIL = "0" /;E;/;*;)
+# (DETAIL = "0" /;E;/;*;)
+# (DETAIL = "0" /;E;/;*;)
+# (DETAIL = "0" /;E;/;*;)
+(DETAIL = "0" /;E;/;*;)
+(DETAIL = "0" /;bE;房号"/"帐号 /;*;)
+(DETAIL = "0" /;E;ROOM"/"ACC. :__________________/;*;)
+(DETAIL = "0" /;E;/;*;)
+(DETAIL = "0" /;E;姓名"/"公司/;*;)
+(DETAIL = "0" /;E;GUEST"/"CO. :__________________/;*;)
+(DETAIL = "0"/;E;/;*;)
+(DETAIL = "0"/;E;/;*;)
+(DETAIL = "0"/;E;/;*;)
+(DETAIL = "0"/;E;     -----------------------/;*;)
+(DETAIL = "0"/;E;            请 签 名          /;*;)
+(DETAIL = "0" /;E;        Please Sign Here/;*;)
+#;E;
+#(DETAIL = "0" /;E;       EL\ DM\ BP\ BR\ ER/;*;)
+#(DETAIL = "0" /;E;---------------------------------/;*;)
+#(DETAIL = "0" /;E;                   DM  BP  BR  ER/;*:)
+#(MGR_REPRT > "0"/;C; 此收据是对帐凭证,请保留!!/;*;)
+#(DETAIL = "0"/;E;             请保留。           /;*;)
+#(DETAIL = "0"/;E;  Please retain  charge docket   /;*;)
+#(DETAIL = "0"/;E;  as your supporting document.  /;*;)
+#(DETAIL = "0"/;E;/;*;)
+#(DETAIL = "0"/;rC;    多谢惠顾 请再光临/;*;)
+#(DETAIL = "0"/;rC;        Thank You/;*;)
+#(DETAIL = "0"/;rC;    Please Come Again/;*;)
+;*E;(greet1 ! ""/$greet1,32C$/)
+;*E;(greet2 ! ""/$greet2,32C$/)
+;*E;(greet3 ! ""/$greet3,32C$/)
+;*E;(greet4 ! ""/$greet4,32C$/)
+;*E;(greet5 ! ""/$greet5,32C$/)
+;*E;$spc_mesg$
+(prtpaidck > "0"/;bC;     << 此单已付款 >>/;*;)
+(TAKEOUT > "0"/;C;   << 全 单 外 卖 >>/;*;)
+;-F;05
+;-X;
+
+[item7R]
+;*E;(itm_vtime ! ""/*$qty_str,3L/$qty_str,4L$)$itm_desc2,18D$$itmtot+itm_disc,7.2$
+#;*E;    $itm_desc1,20D$
+#;*E;(DETAIL > "0"/(itm_vtime ! ""/* $order_emp,15L$/$order_emp,15L$  ) $stat_id,3L$ $time_in$/)
+;*E;(itm_vtime ! ""/* 删除时间: $itm_vtime$/)
+;*E;(itm_vtime ! ""/* 删除员工: $void_emp$/) 
+#;*E;(itm_disc > "0"/       项目折扣:        $-itm_disc,8.2$/)
+#;*E;(itm_disc > "0"/       Item Disc./)
+#;*E;(itm_disc > "0"/$idiscdesc2,23R$  $-itm_disc,8.2$/)
+#;*E;(itm_disc > "0"/$idiscdesc1,23R$ /)
+;*E;(time_chg > "0"/    "("$time_in$-$time_out$")"/)
++F:modifier+
+
+[totsum7R]
+;*E;(tot_cal1 >"0"/;b;   $tot_desc1,15R$: $tot_cal1,9.2/)
+;*E;(tot_disc1 >"0"/;r;$tot_desc1,10R$Discount: $-tot_disc1,9.2/)
+;*E;(tot_cal2 >"0"/;b;   $tot_desc2,15R$: $tot_cal2,9.2/)
+;*E;(tot_disc2 >"0"/;r;$tot_desc2,10R$Discount: $-tot_disc2,9.2/)
+;*E;(tot_cal3 >"0"/;b;   $tot_desc3,15R$: $tot_cal3,9.2/)
+;*E;(tot_disc3 >"0"/;r;$tot_desc3,10R$Discount: $-tot_disc3,9.2/)
+;*E;(tot_cal4 >"0"/;b;   $tot_desc4,15R$: $tot_cal4,9.2/)
+;*E;(tot_disc4 >"0"/;r;$tot_desc4,10R$Discount: $-tot_disc4,9.2/)
+;*E;(tot_cal5 >"0"/;b;   $tot_desc5,15R$: $tot_cal5,9.2/)
+;*E;(tot_disc5 >"0"/;r;$tot_desc5,10R$Discount: $-tot_disc5,9.2/)
+;*E;(tot_cal6 >"0"/;b;   $tot_desc6,15R$: $tot_cal6,9.2/)
+;*E;(tot_disc6 >"0"/;r;$tot_desc6,10R$Discount: $-tot_disc6,9.2/)
+;*E;(tot_cal7 >"0"/;b;   $tot_desc7,15R$: $tot_cal7,9.2/)
+;*E;(tot_disc7 >"0"/;r;$tot_desc7,10R$Discount: $-tot_disc7,9.2/)
+;*E;(tot_cal8 >"0"/;b;   $tot_desc8,15R$: $tot_cal8,9.2/)
+;*E;(tot_disc8 >"0"/;r;$tot_desc8,10R$Discount: $-tot_disc8,9.2/)
+;*E;(tot_cal9 >"0"/;b;   $tot_desc9,15R$: $tot_cal9,9.2/)
+;*E;(tot_disc9 >"0"/;r;$tot_desc9,10R$Discount: $-tot_disc9,9.2/)
+#;*E;(tot_cal10>"0"/;b;           $tot_desc10$ 合计: $tot_cal10,9.2/)
+#;*E;(tot_cal3 >"0"/      Total $tot_desc3$ Calculation :    $tot_cal3,9.2/)
+#;*E;(tot_disc1 >"0"/Total $tot_desc1$ Discount   :$tot_disc1,9.2/)
+#############################################################################
+[head7Q]
+;*E;(ck_ref ! ""/Mr.\Mrs.\miss $ck_ref$,/)
+;*E;(TRAINING > "0"/   [ TRAINING MODE ]/)
+;*E;(ECR_MODE > "0"/      [ ECR MODE ]/)
+;*E;(PACK_FMT = "1"/   [ PACKING SLIP ] /)
+;*E;(PICKUP_FMT = "1"/  [ PICKUP SLIP - $ck_recno,3.0L$ ]/)
+;E;------------------------------
+;*E;(comname1 ! ""/      $comname1,25C$/)
+;*E;(outdesc ! ""/   $outdesc,25C$/)
+;E;           预结单
+(DETAIL > "0"//;*bE;(addr2 ! ""/$addr2$/))
+(DETAIL > "0"//;*E;(tel ! ""/Tel : $tel$/))
+;E;-----------------------------
+;E;台号  :$table$
+;E;日期:$prtdate$    时间:  $time_in,5,1,5$
+;E;收银员:$empname,10L$人数:      $guest$
+;*;(DETAIL > "0"//;bE;打印  : $prtno,3.0L$      单号: $checkno$)
+;*;(ck_ref ! ""/Ref. No.:$ck_ref$/)
+;*;(DETAIL > "0"/;E;(prtno > "1"/Print History:/No print history)/)
+;*;(DETAIL > "0"/(prtno > "1"/+F:print_history+/)/)
+;*;(DETAIL > "0"/;E;/)
+;E;-----------------------------
+;E;
+
+[cont7Q]
++F:grp_item+
+;*E;(allitmtot > "0"/             小计 : $allitmtot+allitmdisc, 9.2$/)
++F:itemdisc+
+;*;(disamt > "0"/;rE;$discdesc,20R$:$-disamt,8.2$/)
+;bE;(serv1 > "0"/          15％SVC: $serv1,9.2$/)
+;*;(serv2 > "0"/          10％SVC: $serv2,9.@$/)
+;*;(isround > "0"/;bE;  Round Amt $isround,9.2$/)
+;*E;(tax1 > "0"/          6％VAT:  $tax1,9.2$/)
+;*E;(tax2 > "0"/          11％VAT: $tax2,9.2$/)
+;*E;(tax3 > "0"/          17％VAT: $tax3,9.2$/)
+;*E;(alltax > "0"/         税项总和: $alltax,9.2$/)
+;bC;$prttime,5,1,5$        总计 : $net_tot,9.2$
+;*;(DETAIL > "0"//;E;          ==========)
+;*;(DETAIL > "0"//(show_fc > "0"/;C;$fc_desc,15R$ $net_to_fc,9.@$/))
+;*;(DETAIL > "0"/+F:message+/)
+;*;(DETAIL > "0"/(is_paid > "0"/;E;/;C;   <UNPAID>)/)
+;*;(DETAIL > "0"/(is_paid > "0"/;E;Cashier : $cashname$ "("$cashier$")"/)/)
+;*;(DETAIL > "0"/(is_paid > "0"/;E;Pay Meth Amount   Tips   Total/)/)
+;*;(DETAIL > "0"/(is_paid > "0"/-------- -------- ------ --------/)/)
+;*;(DETAIL > "0"/(is_paid > "0"/+F:payment+/)/)
+;*;(DETAIL > "0"/(is_paid > "0"/;E;** Total $amt_tot,8.2$ $tips_tot,6.2$ $all_pay,8.2$/)/)
+
+[end7Q]
+;*E;(member = "CL1234"/(is_paid > "0"/;E;付款方法 数额     小账   总数 /)/)
+;*E;(member = "CL1234"/(is_paid > "0"/-------- -------- ------ --------/)/)
+;*E;(member = "CL1234"/(is_paid > "0"/+F:payment+/)/)
+;*E;(member ! "CL1234"/(member ! ""/会员: $member$/)/)
+;*E;(member ! "CL1234"/(member ! ""/      $mem_name,25D$/)/)
+(DETAIL > "0" /;E;****   THIS IS NOT A CHECK   ****/;*;)
+(DETAIL > "0" /;E;**** PLEASE DON'T PAY FOR IT ****/;*;)
+#;*E;(DETAIL="0"/(is_paid= "0"/;E;信用卡:___有密码 发票:___个人/;*;)/)
+#;*E;(DETAIL="0"/(is_paid= "0"/;E;现  金:___            ___公司/;*;)/)
+;*E;(DETAIL="0"/(is_paid= "0"/;E;/;*;)/)
+;*E;(DETAIL="0"/(is_paid= "0"/;E;/;*;)/)
+;*E;(DETAIL="0"/(is_paid= "0"/;E;_____________________________/;*;)/)
+;*E;(DETAIL="0"/(is_paid= "0"/;E;       欢迎再次光临           /;*;)/)
+;*E;$spc_mesg$
+(prtpaidck > "0"/;bE; << 此单已付款 >>/;*;)
+(TAKEOUT > "0"/;E;   << 全 单 外 卖 >>/;*;)
+;-F;05
+;-X;
+
+[item7Q]
+;*bE;(itm_vtime ! ""/*$qty_str,2L/$qty_str,2L$)$itm_desc2,20D$$itmtot+itm_disc,7.2$
+;*E;(itm_vtime ! ""/*删除时间:$itm_vtime$/)
+;*E;(itm_vtime ! ""/*删除员工:$void_emp$/)
+;*E;(time_chg > "0"/"("$time_in$-$time_out$")"/)
++F:modifier+
+
+[idisc7Q]
+;*;(itm_disc > "0"/$idiscdesc2,20R$:$-itm_disc,8.2$/)
+#############################################################################
+[pattern5]
+
+[pattern8]
+30=pay_grp.mdf
+31=disc_grp.mdf
+[pattern8]
+
+[pattern9]
+./data/pay_seq = *pseq_info
+./data/disc_seq = *dseq_info
+./data/pay_grp = *pgrp_info
+./data/disc_grp = *dgrp_info
+[pattern9]
+
+[pattern10]
+[pgrp_info]
+TTANDG, FPAY_GRP, .NOT. DELETED(), 0, 0
+[dgrp_info]
+TTANDG, FDIS_GRPTP+FDIS_GRP, .NOT. DELETED(), 0, 0
+[pseq_info]
+TTGS, FPAY_GRP+FSEQ, .NOT. DELETED(), 0, 0
+[dseq_info]
+TTGS, FDIS_GRPTP+FDIS_GRP+FSEQ, .NOT. DELETED(), 0, 0
+[pattern10]

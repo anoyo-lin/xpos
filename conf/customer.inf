@@ -1,0 +1,14 @@
+[setup]
+customer        = 唐山香格里拉大酒店
+user            = 55
+station         = 33
+pda_station     = 11
+register_date   = 20161024
+expiry_date     = 20161201
+program_counter = 0
+version         = 1.1
+flag            = 010B
+subscriptions   = 20170831
+plug_serial     = 10395123871aab82
+activation_key  = e3704173e60f
+subscriptions_activation_key  = 591bb048cf3d

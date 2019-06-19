@@ -1,0 +1,427 @@
+#
+#	gmate.inf - General GOURMATE POS System Setup File
+#
+
+[gmate]
+support_lev2_payment=1
+support_lev2_discount=1
+support_multi_chkdisc=1
+support_10_othref=1
+void_code_for_void_payment=1
+support_kill_station_by_unlock_table_option=1
+
+force_change_password=4,90,1
+pwd_format_constraint=1,1,1,1
+passwd_encryption=2
+passwd_min_length=7
+passwd_retry=32767
+PMS_direct_display_details=1
+credit_card_no_mask_option=2
+credit_card_encrypt=1
+credit_card_report_auth_list=01,10
+payment_auto_fcn_options=0,0
+wbonus_disable=1
+wb2_create_wb1_daily_file=1
+#china_tax_invoice_paytype=1,2,3,4,5,6,7,8,9,10,11,12,13,21,22,23,24
+support_10_othref=1
+reseq_auto_reassign_course=1
+#void_code_for_void_payment=1
+split_table_share_cover=1
+support_seat_no_color=1
+touching_show_seat_no=1
+split_check_prt_spc_fmt_slip=1
+detailed_item_report_qty_dec_pt=1
+release_soldout=3
+gmrep_prg=/usr/gm/etc/startrepT.s
+filesys=/dev/cciss/c0d0p3,/dev/cciss/c0d0p3,/u/tmp
+zero_cover=1
+#maxguest=99
+lookupkey=1
+itemkey=1
+fcnkey=1
+show_outlet_name=3
+show_check_period=1
+POS_PMS_interface=6
+gmate_no_passwd = 1
+support_menu_type2=1
+support_99_panel=1
+support_99_price=1
+support_max_discount=1
+support_max_paytype=1
+support_price_recal=1
+loc_prt_void_reason=1
+exrep_long_void_reason=1
+exrep_extend_fcn=0,1,1,1,1
+checklog=1
+tbrep=1
+multi_split_option = 05
+no_print_for_cat = 990,998
+system2local=991,992,993,994,995,996,997,998,999
+daystart_testptr=0
+day_start_close_rep=0
+recall_item_sequence=1
+#item_reminder=2
+waive_sc_tax_option=04
+itemrep_percent=1
+itemrep_outlet_grouping=0
+discrep_outlet_grouping=0
+itemcostby=1
+itemarep_prompt=1
+menuarep_prompt=1
+monthly_cost_by_outlet=1
+touching_show_check_info=1
+show_itemrep_cost=1
+employee_card_length=7
+secu_lev=5
+assign_emp_card_keyin_only=1
+checkwname=1
+#daystart_prg=/usr/gm/etc/restarttmsd.s
+#dayclose_firstprg=/usr/gm/etc/cpdaily.s
+#dayclose_prg=/usr/gm/etc/cptblfile.s
+top_panel_fcn_button=2
+customer_display=1
+ckfmt_section_type=2
+period_rep_slip_format=1
+inbox_prtq_type=0
+inboxlife=3
+inbox=1
+itemdisc_tax_sc_calc=4
+#chkdisc_tax_sc_calc=1
+no_ask_passwd_for_hold_id=1
+quit_from_force_modifier=1
+disp_pole_amt_symbol=RMB
+#after_print_lock=2
+#chk_allow_print=1
+upd_tbl_stat=1
+disc_restrict_level=2
+show_table_num_on_rep=1
+show_open_check_total=1
+#auto_assign_course=1
+#auto_assign_seat=1
+#auto_incre_seat_no=1
+#starting_course_no=1,1
+time_in_out_mode=1
+item_count_isascend=1
+ptype_restrict_level=3
+cashier_mode=2
+ext_analysis_rep=1
+special_action_history=1,1
+direct_outlet=N,0001,0002,0003,0004,0005
+dailysalesrep=0,1,1,1
+#return_to_lookup_pg=1
+#chk_ctrl_print_control_auth_list=01,06
+#cross_outlet=1
+#merge_outlet_table=1
+#predefine_table=1
+mem_disc_mem_valid = 1
+mem_disc_manual_inp = 1
+void_member_disc_clear_mem=1
+check_ejlog_path=/u/z01/checklog
+crossout_net_rev_rep_mode=1
+crossout_paytype_gp=4,44
+#form_reader=1
+prt_fast_receipt=3
+prt_fast_check=1
+#support_mail=1
+#mail_prg=/usr/gm/etc/startmail.s
+#mail_path=/u/mail
+#my_login=z01
+#report_def_outlets=0010
+#print_chk_control=1,1,1,0,1
+#merge_table_void_reason=111
+#batch_coupon_fcn=1,1,0
+allow_alphanumeric_mem_number_in_mem_rep=1
+#enh_split_check=1
+#cashier_settlement=2
+cannot_void_printed_item=2
+no_payment_adjustment=1
+#force_reprint_after_release=1
+#no_same_member_same_period=1
+#force_change_password=1,60,1
+ask_quantity_even_one=0
+no_set_member_auth_chk=1
+idisrep=1
+
+# 1st item cover discount
+#coverdisc_member_format=hmc member format
+#coverdisc_member_prefix=99888
+#coverdisc_manager_override=01,03,04,05
+#coverdisc_member_number_length=10
+#coverdisc_member_input_mode=2
+#coverdisc_black_list_check=1
+#coverdisc_check_exdate=0
+coverdisc_num_type=2
+
+support_tms = 4501,z01,127.0.0.1
+tms_log = 1
+
+#tablemsg=1,1,1
+#tablemsg_lu=900
+
+[pda]
+#
+# ** Log file related attributes **
+#  pda_log = [log filename for gmpda POS process]
+#            (default : gmpda.log)
+#
+#  setup_log = [log filename for pdasetup process]
+#            (default : pdasetup.log)
+#
+#  log_max_size = [Max Size of log file (in K Bytes)] (default 0)
+#                 - 0 : No limitation of max. size of log file
+#                 > 0 : have limitation of file size in K bytes
+#
+#  log_auto_delete = [0/1] (default 0)
+#                  - 0 : Will not delete the log file.
+#                  1 : Auto delete log file after 7 days.
+#
+#  packet_log = [1/0],[packet log file directory]
+#                   (default : 0, /usr/tmp)
+#                   1 - support packet log file
+#                   0 - not support packet log file
+#
+#  log_by_pda = [method to build the log filename for gmpda daemon]
+#               - for value other than "0", file extension will be added
+#                 to the end of the gmpda's log filename
+#               - value :-
+#                 0 - Single log file (default, no ext.)
+#                 1 - Log file by Station No.
+#
+# ** Language and display related settings **
+#  language = [language index for multi-language support of gmht (1 -> 3)]
+#              - 3 language index (1 -> 3) can be set for user to choose
+#                the display language index
+#              (default : 1 for 1st English Language)
+#
+#  mesg_file = [message filename for multi-language support of gmht]
+#              - The message file for mulit-language for GMHT program to open
+#
+#  num_lang = [no. of message in message file] (default 1)
+#
+#  single_byte_lang = [<lang1>],[<lang2>],[<lang3>]
+#                     * default:0,0,0
+#                       set the language is single byte font
+#                       note: English ASCII can be treated as
+#                       both single or double byte font, for
+#                       compatible with other languages, it's
+#                       better to treat English as double byte.
+#                       For example, if Thai is language 2.
+#                       single_byte_lang = 0,1,0
+#
+#  code_page = [1st lang. code page],[2nd lang. code page],[3rd lang. code page]
+#              (No default, must provide valid code page)
+#              - Define the language code page for Unicode conversion
+#              - e.g. gb2312,Big5, utf-8, shift-jis
+#
+#  fontsize_lang1 = [Small],[Standard],[Big],[Large],[Super]
+#  fontsize_lang2 = [Small],[Standard],[Big],[Large],[Super]
+#  fontsize_lang3 = [Small],[Standard],[Big],[Large],[Super]
+#                   (default : 8,9,10,11,14)
+#                   - Provide the display fontsize want to show on screen
+#                     in different display language (1 to 3)
+#                   - The fontsizes will be classified to 5 levels from :-
+#                     Small, Standard, Big, Large Super 
+#
+#  dollar_sign = [dollar sign string]
+#                (default : "$")
+#                - The dollar sign that will be displayed on PDA screen
+#
+# ** Program setup related settings **
+#  show_item_plu = [0|1]
+#                  (default : 1)
+#                  1 - Show item PLU on item line
+#                  0 - Hide item PLU on item line
+#
+#  show_item_total = [0|1]
+#                    (default : 1)
+#                    1 - Show item total on item line
+#                    0 - Hide item total on item line
+#
+#  plu_loop = [0|1]
+#             (default : 0)
+#             1 - When entering PLU, will loop to enter PLU, until press cancel
+#             0 - Quit PLU entering screen, after success to enter one PLU
+#
+#  sync_clock = [0|1|2|3]
+#               (default : 1)
+#               0 - Will not sync. the clock on PDA from POS server
+#               1 - Sync. both date & time on PDA
+#               2 - Sync. date only
+#               3 - Sync. time only
+#
+#  auto_relogin = [0|1|2]
+#                 (default : 1)
+#                 0 - Will not do auto re-login when re-connection to PDA
+#                     i.e. will always pop-up re-login screen when re-connect
+#                     to PDA terminal
+#                 1 - Will auto re-login to server without pop-up re-login
+#                     screen if detect same PDA (i.e. same IP and MAC address)
+#                     is re-connected back to POS server
+#                 2 - Will auto re-login to server and have no checking of 
+#                     the connected PDA's IP and MAC address
+#
+#  ** New setup after Version 1.00.2
+#
+#  brightness = [-100 -> 100]
+#               (default : 0)
+#               Set default color brightness of the PDA Pocket PC
+#               The darkest color is -100 and the lightest one is +100
+#               Default is 0 for normal
+#
+#  disable_special_symbol = [0|1]
+#                            (default : 0)
+#                            Disable the unicode special symbol displayed on
+#                            Pocket PC, such as "Up/Down" arrows.
+#
+#  enter_num_table = [0|1]
+#                  (default : 0)
+#                  0 - Allow alpha-numeric input to enter table no.
+#                  1 - Only allow numeric input to enter table no.
+#
+#  enter_num_plu = [0|1]
+#                  (default : 0)
+#                  0 - Allow alpha-numeric input keypad to enter ITEM PLU
+#                  1 - Only allow numeric input keypad to enter ITEM PLU
+#
+#  enter_num_phonetic = [0|1]
+#                  (default : 0)
+#                  0 - Allow alpha-numeric input to enter item's phonetic code
+#                  1 - Only allow numeric input to enter item's phonetic code
+#
+#
+support_new_encryption_no_BCD_compression=1
+pgs_enc_key = AAAA1111BBBB2222CCCC3333DDDD4444
+pgs_default_payment_type=0099
+card_free_chk_disc_num=0099
+restrict_payment_on_central_coupon_sell_usage=0
+ret_error_msg_language_id = 3
+support_pay_method = 01,02,03,04,05,06
+needMemberCard=0
+needCouponCodeInPayment=0
+storeName=storeName
+get_member_from_member_dbf=1
+cash_default_paytype=0001
+coupon_default_paytype=0098
+pgs_default_card_payment_type=0016
+pgs_data_package_suffix=silverstonepay@table
+
+pda_log = /u/pgstmp/gmpgs.log
+packet_log = 1, /u/pgstmp/
+
+setup_log = /usr/tmp/pdasetup.log
+log_max_size = 2000
+log_auto_delete = 1
+log_by_pda = 0
+language = 2
+mesg_file = /usr/gm/bin/gmpda.txt
+num_lang = 2
+single_byte_lang = 0,0,0
+code_page = gb2312,gb2312,gb2312
+fontsize_lang1 = 8,9,10,11,14
+fontsize_lang2 = 9,9,10,11,14
+fontsize_lang3 = 8,9,10,11,14
+dollar_sign = ￥
+show_item_plu = 0
+plu_loop = 0
+sync_clock = 1
+auto_relogin = 1
+brightness = 0
+disable_special_symbol = 0
+enter_num_table = 0
+enter_num_phonetic = 0
+enter_num_plu = 0
+
+[table mode]
+support=1
+default_turn_on=0
+sub_grp_mode=2
+refresh_time=1
+ask_emp_no=1
+show_desc_tbl_no=2
+auto_convert=C,V,300
+
+vacant_color_attr=Vacant,空台,Vacant,15,1
+occupied_color_attr=Occupy,已用台,Occupy,0,10
+billing_color_attr=Print,已印单,Print,0,4
+billed_color_attr=Paid,已买单,Billed,0,5
+specail_color_attr=-,-,-,0,0
+all_color_attr=Show  All,Show  All,Show  All,0,15
+
+
+[multi-languages]
+multi=1
+chinese=2,2
+num_lang=2
+#switch_display=0,2,N
+gmate=2,/usr/gm/bin/gmate115tb.txt
+cgmate=2,/usr/gm/bin/gmate115tb.txt
+cggmate=2,/usr/gm/bin/gmate115b.txt
+
+gmrep=2,/usr/gm/bin/gmrep115tb.txt
+cgmrep=2,/usr/gm/bin/gmrep115tb.txt
+cggmrep=2,/usr/gm/bin/gmrep115b.txt
+
+gmctrl=2,/usr/gm/bin/gmctrl115tb.txt
+cgmctrl=2,/usr/gm/bin/gmctrl115tb.txt
+cggmctrl=2,/usr/gm/bin/gmctrl115b.txt
+
+[member]
+credit_format = credit card format
+member_format = member card format
+vip=3
+vip_max_log =-1
+#debit_format = debit card format
+#cardstat_dir = /u/z05/data
+#debit_location=1
+#ejlog00_dir=/tmp
+#debit_memno=123456
+#show_vip = 1
+itemdisc_overide=1
+chkdisc_overide = 1
+discount_outlet=0001,0002,0003,0004,0005,0006,0007,0008,0009,0010,0011,0012,0013,0014,0015
+confirm_pay_member=1
+
+[hmc member format]
+token==
+field=cd_no,10
+field=ex_date,4
+
+[debit card format]
+token=;
+field=cd_no,20
+field=en_date,4
+
+[cashier report]
+
+[switch]
+#editchk=1
+#chg_start_date=1
+have_touch_screen=1
+
+[caddie]
+
+[backup]
+1=Floppy Disk 3.5",6,1.4,1,1,1,0.23,0.7
+2=Tape,-1,250,0,0,1,1,0.45
+2=Zip Disk,7,90,0,0,1,1,0.1
+
+[member card format]
+#minbuf=4
+#field=tmp,1
+#field=tmp,21
+field=mem_no,20
+
+[credit card format]
+token=^
+field=cd_no,20
+field=name,30
+field=ex_date,4
+
+[quantity range]
+
+[io_control]
+c_iflag = ixon, ixany, ixoff
+c_oflag = 
+c_cflag = ctsflow, rtsflow, -crtsfl 
+c_lflag =
+c_line = 

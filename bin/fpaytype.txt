@@ -1,0 +1,1 @@
+FPAYTYPE N(4.0)

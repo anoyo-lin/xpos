@@ -1,0 +1,56 @@
+#
+#	General maintenance for menu database
+#
+
+[setup]
+database = $data/disc_grp.dbf
+idxname = $data/disc_grp.cdx
+tagname = TTANDG
+tagkey = FDIS_GRPTP+FDIS_GRP
+tagdesc = Discount Group Type,Discount Group Num
+title = Discount group Database Maintenance,ÕÛ¿Û×é±ðÎ¬ÐÞ,Discount Sequence Database Maintenance
+option = ADD,EDIT,DEL,PREV,NEXT,FIRST,LOCATE,L-NEXT,SEARCH,SUGGEST
+no_copy_when_add = 0
+dbf_is_opened = 0
+
+have_log = 1
+log_level = 01
+log_class = 018
+log_sub_class = 001
+log_type = 00
+#log_key = FITEM
+#add_remark = FDESC2,FPRICE1
+#modi_remark = FDESC2,FPRICE1
+#del_remark = FDESC2,FPRICE1
+#log_modi_field = FDESC1,FDESC2,FDESC3,FPRICE1,FPRICE2,FPRICE3,FDEPT,FCLASS,FCAT
+#log_modi_field = FDESC1,FDESC2,FDESC3,FPRICE1,FPRICE2,FPRICE3,FPRICE4,FPRICE5,FPRICE6,FPRICE7,FPRICE8,FPRICE9,FPRICE10,FDEPT,FCLASS,FCAT
+
+[lang1]
+-`0`0`"Discount Group Num.:"`0`21`FDIS_GRP`2`C`0000`X`X`X`X`X`N
+M`0`24`"*"`N
+-`1`0`"Discount Group Type:"`1`21`FDIS_GRPTP`1`C`0000`X`X`X`X`X`N
+M`2`0`"(0:Check Dis 1:Item Dis)"`N
+-`3`0`"Group Desc1 :"`3`14`FDESC1`20`C`0000`X`X`X`X`X`N
+-`4`0`"Group Desc2 :"`4`14`FDESC2`20`C`0000`X`X`X`X`X`N
+-`5`0`"Group Desc3 :"`5`14`FDESC3`20`C`0000`X`X`X`X`X`N
+
+[lang2]
+-`0`0`"Discount Group Num.:"`0`21`FDIS_GRP`2`C`0000`X`X`X`X`X`N
+M`0`24`"*"`N
+-`1`0`"Discount Group Type:"`1`21`FDIS_GRPTP`1`C`0000`X`X`X`X`X`N
+M`2`0`"(0:Check Dis 1:Item Dis)"`N
+-`3`0`"Group Desc1 :"`3`14`FDESC1`20`C`0000`X`X`X`X`X`N
+-`4`0`"Group Desc2 :"`4`14`FDESC2`20`C`0000`X`X`X`X`X`N
+-`5`0`"Group Desc3 :"`5`14`FDESC3`20`C`0000`X`X`X`X`X`N
+
+[lang3]
+-`0`0`"Discount Group Num.:"`0`21`FDIS_GRP`2`C`0000`X`X`X`X`X`N
+M`0`24`"*"`N
+-`1`0`"Discount Group Type:"`1`21`FDIS_GRPTP`1`C`0000`X`X`X`X`X`N
+M`2`0`"(0:Check Dis 1:Item Dis)"`N
+-`3`0`"Group Desc1 :"`3`14`FDESC1`20`C`0000`X`X`X`X`X`N
+-`4`0`"Group Desc2 :"`4`14`FDESC2`20`C`0000`X`X`X`X`X`N
+-`5`0`"Group Desc3 :"`5`14`FDESC3`20`C`0000`X`X`X`X`X`N
+
+
+
