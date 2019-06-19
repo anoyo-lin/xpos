@@ -1,13 +1,19 @@
-°Ñ¼ÓÁËpdaµãÎ»µÄcustomer.inf ¶ªµ½conf/ÎÄ¼ş¼Ğ
-ÓÃtoolsÀïµÄdbfplus¸ÄÏÂconf/proc.dbfÖĞµÄÕËÌ×ºÍ¶Ë¿ÚºÅ
-°²×°toolsÖĞµÄnpp²¢ÓÃnotepad++¸ÄÏÂconf/setup.infÖĞµÄpattern 3£¬6£¬11£¬º£ĞÅÓÃfmt97£¬°Ù¸»ÓÃfmt97
-repl_gepÊÇÀ©¿â£¬ÎŞÂÛÊÇ4Î»»¹ÊÇÁ½Î»¶¼¿ÉÒÔÖØ¸´Ö´ĞĞ£¬´óÔ¼Í£»úÎå·ÖÖÓ£¬×ÊÁÏÌØ±ğ¶à£¬·şÎñÆ÷ÌØ±ğÆÆ£¬¿ÉÄÜĞèÒª10·ÖÖÓ
-install_xposÊÇ°²×°³ÌĞò£¬×î´óÖ§³Ö99¸ö¹¤×÷Õ¾£¬×Ô¶¯Éú³ÉÆô¶¯½Å±¾paytbld.s¡£²¢ÔÚrc.local gmsys crond ÖĞÌí¼Ó½Å±¾
-½Å±¾»á¿½±´Ò»¸öË«×Ö½Ú£¥µÄtaxtable.dbf Èç¹û¸úÔ­À´µÄ²»ÏàÍ¬Çë»¹Ô­²¢ÇÒ°Ñ%Ìæ»»£¥»òÕßÒ»¿ªÊ¼¾Í¸Äxpos/data/taxtable.dbf
+æŠŠåŠ äº†pdaç‚¹ä½çš„customer.inf ä¸¢åˆ°conf/æ–‡ä»¶å¤¹
+ç”¨toolsé‡Œçš„dbfplusæ”¹ä¸‹conf/proc.dbfä¸­çš„è´¦å¥—å’Œç«¯å£å·
+å®‰è£…toolsä¸­çš„nppå¹¶ç”¨notepad++æ”¹ä¸‹conf/setup.infä¸­çš„pattern 3ï¼Œ6ï¼Œ11ï¼Œæµ·ä¿¡ç”¨fmt97ï¼Œç™¾å¯Œç”¨fmt97
+repl_gepæ˜¯æ‰©åº“ï¼Œæ— è®ºæ˜¯4ä½è¿˜æ˜¯ä¸¤ä½éƒ½å¯ä»¥é‡å¤æ‰§è¡Œï¼Œå¤§çº¦åœæœºäº”åˆ†é’Ÿï¼Œèµ„æ–™ç‰¹åˆ«å¤šï¼ŒæœåŠ¡å™¨ç‰¹åˆ«ç ´ï¼Œå¯èƒ½éœ€è¦10åˆ†é’Ÿ
+install_xposæ˜¯å®‰è£…ç¨‹åºï¼Œæœ€å¤§æ”¯æŒ99ä¸ªå·¥ä½œç«™ï¼Œè‡ªåŠ¨ç”Ÿæˆå¯åŠ¨è„šæœ¬paytbld.sã€‚å¹¶åœ¨rc.local gmsys crond ä¸­æ·»åŠ è„šæœ¬
+è„šæœ¬ä¼šæ‹·è´ä¸€ä¸ªåŒå­—èŠ‚ï¼…çš„taxtable.dbf å¦‚æœè·ŸåŸæ¥çš„ä¸ç›¸åŒè¯·è¿˜åŸå¹¶ä¸”æŠŠ%æ›¿æ¢ï¼…æˆ–è€…ä¸€å¼€å§‹å°±æ”¹xpos/data/taxtable.dbf
 
 chmod 755 *.s
 
 ./repl_gep.s z01
 ./repl_gep.s z02
-./install_xpos.s z01 »áÎÊÊıÁ¿
-./install_xpos.s z02 »áÎÊÊıÁ¿
+./install_xpos.s z01 ä¼šé—®æ•°é‡
+./install_xpos.s z02 ä¼šé—®æ•°é‡
+
+dbfplus.exe*
+dbfplus.ini*
+npp.exe*
+WinSCP.exe*
+WinSCP.ini*
